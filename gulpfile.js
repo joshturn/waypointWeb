@@ -1,5 +1,3 @@
-'use strict';
-
 var source = require('vinyl-source-stream');
 var gulp = require('gulp');
 var gutil = require('gulp-util');
