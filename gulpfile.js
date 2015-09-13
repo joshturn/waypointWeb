@@ -14,11 +14,6 @@ var dbManager = dbTask({
   password: '',
   database: 'waypointdb',
   dialect: 'mysql'
-  // Credentials for Heroku database
-  // host: 'us-cdbr-iron-east-02.cleardb.net',
-  // user: 'bbaf82d9c58cfe',
-  // password: 'ccebbb53',
-  // database: 'heroku_b2cce461cdb238b'
 });
 
 //Local database
